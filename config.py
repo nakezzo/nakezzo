@@ -1,17 +1,17 @@
-channel_id = -1002311786061  #id канала (для уведомлений)
+channel_id = --1002159008382  #id канала (для уведомлений)
 
-parner_channel = -1001901008595  # id канала для выплат партнерам
+parner_channel = -1002311786061  # id канала для выплат партнерам
 
-admin = 6258165965  #id админстратора (для выплат)
+admin = 7937696862  #id админстратора (для выплат)
 
-chats = -1002311786061 #id чата
+chats = -1002294471794 #id чата
 
-link_chat = 'https://t.me/+XXX' #Ссылка на чат
+link_chat = 'https://t.me/Tomi_casino_uv' #Ссылка на чат
 
-token = '7695712879:AAGGRCMdWia5__Gdvdc2LdS2SfVONmYZrMM' #токен бота
+token = '7816880397:AAGJZ3DDKGWPvNItNmk2-PnMsMbFCER7bc0' #токен бота
 
-username_bot = '@testcasino12930robot'
+username_bot = '@casino_tomibot'
 
-news_link = 'https://t.me/testcasino12930robot'
+news_link = 'https://t.me/NEWS_TOMI_CASINO'
 
-admin_link = 'https://t.me/testcasino12930robot'
+admin_link = 'https://t.me/Tomi_scm'
