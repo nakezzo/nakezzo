@@ -1,17 +1,17 @@
-channel_id = -1001901008595  #id канала (для уведомлений)
+channel_id = -1002311786061  #id канала (для уведомлений)
 
 parner_channel = -1001901008595  # id канала для выплат партнерам
 
-admin = 6000217072  #id админстратора (для выплат)
+admin = 6258165965  #id админстратора (для выплат)
 
-chats = -1001901008595 #id чата
+chats = -1002311786061 #id чата
 
 link_chat = 'https://t.me/+XXX' #Ссылка на чат
 
-token = '5742360177:AAHT3RIXQt-xDQJvgTEbyEYSbiLqxHCXJ9Y' #токен бота
+token = '7695712879:AAGGRCMdWia5__Gdvdc2LdS2SfVONmYZrMM' #токен бота
 
-username_bot = '@testingnewfarmingbot'
+username_bot = '@testcasino12930robot'
 
-news_link = 'https://t.me/testingnewfarmingbot'
+news_link = 'https://t.me/testcasino12930robot'
 
-admin_link = 'https://t.me/testingnewfarmingbot'
+admin_link = 'https://t.me/testcasino12930robot'
