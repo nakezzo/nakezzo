@@ -14,4 +14,4 @@ username_bot = '@casino_tomibot'
 
 news_link = 'https://t.me/NEWS_TOMI_CASINO'
 
-admin_link = 'https://t.me/Tomi_scm'
+admin_link = 'https://t.me/ilovemoneydemo'
